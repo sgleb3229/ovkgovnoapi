@@ -1,5 +1,4 @@
 RewriteEngine On
-RewriteRule ^Messages.getLongPollServer - [L,R=403]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.json -f
 RewriteRule ^(.*)$ $1.json
