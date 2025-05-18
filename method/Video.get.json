@@ -1,0 +1,25 @@
+{
+  "response": {
+    "items": [
+      {
+        "video": {
+          "id": 1,
+          "owner_id": 1,
+          "title": "zalupa",
+          "duration": 6,
+          "description": "lol",
+          "date": 1634567890,
+          "views": 999999,
+          "image": [
+            {
+              "url": "http://test.sgleb3229.serv00.net/photos/hype.jpg"
+            }
+          ],
+          "files": {
+            "mp4_480": "http://test.sgleb3229.serv00.net/videos/hype.mp4"
+          }
+        }
+      }
+    ]
+  }
+}

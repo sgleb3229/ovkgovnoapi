@@ -1,1 +1,1 @@
-{"response":{"count":0,"items":[]}}
+{"response":{"count":1,"items":[{"id":2,"first_name":"GovnoAPI","last_name":"","is_closed":false,"can_access_closed":true,"verified":1,"photo_100":"http://test.sgleb3229.serv00.net/photos/govnoapilogo.jpg","photo_200_orig":"http://test.sgleb3229.serv00.net/photos/govnoapilogo.jpg","photo_200":"http://test.sgleb3229.serv00.net/photos/govnoapilogo.jpg","last_seen":{"platform":7,"time":1745675817},"music":null,"online":1}]}}
